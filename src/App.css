@@ -624,6 +624,11 @@ section {
     padding: 0.5rem;
   }
 }
+.section.home {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 
 
 
