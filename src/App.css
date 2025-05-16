@@ -303,7 +303,9 @@ section {
   .skill-card {
     width: 90%;
   }
-
+  .project-card {
+    width: 90%;
+  }
   .skills-description {
     width: 90%;
   }
@@ -629,7 +631,14 @@ section {
   background-position: center;
   background-repeat: no-repeat;
 }
-
+img, video, iframe {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+* {
+  max-width: 100vw;
+}
 
 
 
