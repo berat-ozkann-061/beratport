@@ -179,7 +179,7 @@ function App() {
                         style={{ position: "relative", zIndex: 1 }}
                     >
                         {[
-                            { src: "python.png", alt: "Python" },
+                            { src: "pythonon.jpg", alt: "Python" },
                             { src: "html-css.webp", alt: "HTML / CSS" },
                             { src: "javascript.jpg", alt: "JavaScript" },
                             { src: "react.png", alt: "React" },
